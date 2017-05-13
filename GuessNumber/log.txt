@@ -1,0 +1,2 @@
+Congratulations! You guessed the number in 7 step(s)
+Congratulations! You guessed the number in 1 step(s)
